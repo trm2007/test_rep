@@ -1,4 +1,7 @@
 {
   "name": "test_repo",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@trm2007/trm_login_page": "git+https://git@github.com/trm2007/trm_login_page.git"
+  }
 }
